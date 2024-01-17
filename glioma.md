@@ -30,9 +30,9 @@
 
 ## Epidemiology
 ### Incidence 
-            grade 2 oligodendroglioma --> 0.25
-                astrocytoma --> 0.51
-                    mixed glioma --> 0.20
+- grade 2 oligodendroglioma --> 0.25
+- astrocytoma --> 0.51
+- mixed glioma --> 0.20
 ### Age
 - LGG --> younger age (20 - 40)
 - oligodendroglioma --> 40 -45
