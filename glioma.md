@@ -1,11 +1,18 @@
 # Glioblastoma multiformae - "Glioma"
 
 - primary tumors in CNS - neuroepithelial tumors - glial cells
+- no specific risk factors
+- diagnosis: CT/MRI
+- treatment: surgical resection --> chemotherapy
+- poor prognosis: 5.5% 5-year post diagnosis - 15 months median survival
+- types:
+    1. primary GBM - 80% - 62 yrs 
+    2. secondary GBM - 45 yrs ; frontal lobe, less necrosis and better prognosis than primary
 - types: (cell types)
 1. astrocytoma
 2. ependymomas oligodendroglioma
 3. mixed oligoastrocytoma
-
+- WHO: GBM --> grade IV malignant, mitotically active & predisposed to necrosis
 - 2016  WHO: restrucutre classification of tumors (molecular + histopathological features)
 - cytological atypia, mitotic activity, anaplasia, microvascular proliferation & necrosis.
 - LGG < HGG
@@ -45,10 +52,10 @@
 - headache
 - hydrocephalus --> change in vision, nausea and vomiting
 
-
-
 ## References
 
 1. Aiman, W., Gasalberti, D.P. and Rayi, A. (2023) ‘Low-grade gliomas’, in StatPearls. Treasure Island (FL): StatPearls Publishing. Available at: http://www.ncbi.nlm.nih.gov/books/NBK560668/ (Accessed: 5 January 2024).
 
+2. Kanderi, T. and Gupta, V. (2023) ‘Glioblastoma multiforme’, in StatPearls. Treasure Island (FL): StatPearls Publishing. Available at: http://www.ncbi.nlm.nih.gov/books/NBK558954/ (Accessed: 8 January 2024).
 
+3. Kanderi, T. and Gupta, V. (2023) ‘Glioblastoma multiforme’, in StatPearls. Treasure Island (FL): StatPearls Publishing. Available at: http://www.ncbi.nlm.nih.gov/books/NBK558954/ (Accessed: 8 January 2024).
